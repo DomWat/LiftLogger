@@ -115,9 +115,9 @@ Here are some images of our code and our product.
 <!-- CONTACT -->
 ## Team Members
 
-Chapman Chappelle - (chapman.chappelle@gmail.com) - email (https://github.com/ChapmanChappelle) - github<br>
-Kathryn Donoghue - (kathrynjdonoghue@gmail.com) - email (https://github.com/kjdonoghue) - github<br>
 Dominic Waters - (dominicwaters12@gmail.com) - email   (https://github.com/DomWat) - github <br>
+Kathryn Donoghue - (kathrynjdonoghue@gmail.com) - email (https://github.com/kjdonoghue) - github<br>
+Chapman Chappelle - (chapman.chappelle@gmail.com) - email (https://github.com/ChapmanChappelle) - github<br>
 
 Project Link: [https://github.com/ChapmanChappelle/DigitalCrafts-BackEnd.git](https://github.com/github_username/repo_name)
 
@@ -125,9 +125,9 @@ Project Link: [https://github.com/ChapmanChappelle/DigitalCrafts-BackEnd.git](ht
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
- - Kathryn Donoghue (https://github.com/kjdonoghue) - github
- - Chapman Chappelle (https://github.com/ChapmanChappelle) - github
  - Dominic Waters (https://github.com/DomWat) - github
+ - Chapman Chappelle (https://github.com/ChapmanChappelle) - github
+ - Kathryn Donoghue (https://github.com/kjdonoghue) - github 
   - Nathan Orris - **The Certified** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)- **DiR at DigitalCrafts Houston** -
     [NathanNoSudo](https://github.com/NathanNoSudo)
  - **Othneildrew**  -
